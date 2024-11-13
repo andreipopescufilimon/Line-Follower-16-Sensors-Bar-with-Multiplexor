@@ -8,6 +8,7 @@ This module is designed with **16 QRE1113GR phototransistor sensors**, spaced `~
 
 ![](images/img1.png)
 ![](images/img2.png)
+![](images/img3.png)
 
 ## Overview
 
