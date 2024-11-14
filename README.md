@@ -7,6 +7,7 @@ This module is designed with **16 QRE1113GR phototransistor sensors**, spaced `~
 - **Connector**: FFC/FPC connection to main board
 
 ![](images/img1.png)
+![](images/V1.9_compact_img1.png)
 ![](images/img2.png)
 ![](images/img3.png)
 
