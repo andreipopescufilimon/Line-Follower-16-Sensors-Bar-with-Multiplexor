@@ -1,5 +1,7 @@
 # 16 Sensors Bar Line Follower Bar
 
+!! Classic Version has a small issue (sensors power missing), Please proceed with compact one!
+
 This module is designed with **16 QRE1113GR phototransistor sensors**, spaced `~6.094 mm` apart to provide high-resolution line detection, ideal for precision line-following robots.
 
 - **Optimal Sensing Distance**: `3 mm`
